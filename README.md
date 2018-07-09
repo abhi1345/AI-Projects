@@ -6,3 +6,4 @@ Projects by Folder:
 2) Movie Classifier: k-Nearest-Neighbors classifier which takes in string movie script and returns genre.
 3) Puzzle-Solver: An A* algorithm, written from scratch, which can solve any sequence-based puzzle, like a sliding puzzle or word ladder.
 4) Markov-Rapper: A hidden markov model I implemented in high school and trained with Drake songs to generate rap lyircs.
+5) Superhero Classifier: A convolutional neural network I trained on images of my favorite Marvel heroes (Iron Man, Captain America, Hulk, Black Widow, Groot). Usually recognizes new images with >90% accuracy. 
