@@ -1,4 +1,4 @@
-# Overview
+# Tensorflow CNN for Image Recongition
 
 (Forked from Siraj Raval's tutorial on image recognition with Tensorflow)
 
