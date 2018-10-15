@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[16]:
-
+#Long Short Term Memory Neural Network for Stock Prediction
 
 #Step 0, import statements
 from keras.layers.core import Dense, Activation, Dropout
@@ -56,4 +52,3 @@ model.fit(x_train, y_train, batch_size=512, nb_epoch=1, validation_split=0.05)
 #Step 4, plot predictions
 predictions = lstm.predict_sequences_multiple(model, x_test, 50, 50)
 lstm.plot_results_multiple(predictions, y_test, 50)
-
